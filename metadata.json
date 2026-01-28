@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sangli Refrigeration POS & Inventory",
+  "description": "A professional, offline-first business-grade POS and inventory system for refrigeration spare parts shops. Features secret pricing, Khata management, and local data persistence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
